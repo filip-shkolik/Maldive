@@ -1,4 +1,4 @@
-# Maldive
+# Maldive 🌴🏖️🌊
 
 https://filip-shkolik.github.io/Maldive/
 
